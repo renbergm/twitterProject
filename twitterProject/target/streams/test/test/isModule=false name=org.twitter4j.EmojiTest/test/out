@@ -1,0 +1,6 @@
+[0m[[0minfo[0m] [0m[32mEmojiTest:[0m[0m
+[0m[[0minfo[0m] [0m[32m- should My function updateStatusEmoji should show a success case[0m[0m
+[0m[[0minfo[0m] [0m[32m- should My function getEmojiStats should show a success case[0m[0m
+[0m[[0minfo[0m] [0m[32m- should My function emojiCounter should match correctly on an integer[0m[0m
+[0m[[0minfo[0m] [0m[32m- should My val jsonEmoji should equal emoji-json "COPYRIGHT SIGN".[0m[0m
+[0m[[0minfo[0m] [0m[32m- should My function parseToUnicode should match correctly on "COPYRIGHT SIGN".[0m[0m
