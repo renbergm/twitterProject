@@ -2,8 +2,6 @@ package org.twitter4j
 
 import twitter4j.TwitterFactory
 import twitter4j.TwitterStreamFactory
-//import org.jasypt._
-//import org.jasypt.util.text.BasicTextEncryptor
 
 trait TwitterInstance {
   val twitter = new TwitterFactory().getInstance
